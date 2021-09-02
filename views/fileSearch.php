@@ -37,8 +37,8 @@ try {
     <head>
         <meta charset="utf-8">
         <meta name="author" content="Codericks">
-        <meta name="description" content="Jari.tn, une clé de votre avenir">
-        <meta name="keywords" content="resume,cv,vcard">
+        <meta name="description" content="Challlenge Meher Ben Salah">
+        <meta name="keywords" content="challenge-Meher">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>RealForce Tech Challenge </title>
