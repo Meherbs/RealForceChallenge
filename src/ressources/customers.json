@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "ONE",
+      "fontFamily": "Times New Roman",
+      "color": "green",
+      "size": "14px"
+    },
+    {
+      "id": 2,
+      "name": "Two",
+      "fontFamily": "Arial",
+      "color": "red",
+      "size": "20px"
+    },
+    {
+      "id": 3,
+      "name": "Three",
+      "fontFamily": "Brush Script MT",
+      "color": "black",
+      "size": "24px"
+    },
+    {
+      "id": 4,
+      "name": "Four",
+      "fontFamily": "Courier New",
+      "color": "blueviolet",
+      "size": "18px"
+    },
+    {
+      "id": 5,
+      "name": "Five",
+      "fontFamily": "cursive",
+      "color": "brown",
+      "size": "16px"
+    }
+  ]
+}
